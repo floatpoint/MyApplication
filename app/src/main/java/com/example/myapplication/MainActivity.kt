@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         System.out.println("开始启动")
         //在分支上个修改
+        //V2.0修改
 
         fab.setOnClickListener { view ->
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
